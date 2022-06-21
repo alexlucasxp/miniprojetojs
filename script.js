@@ -5,7 +5,7 @@ const btn3 = document.getElementsByClassName(".botao3")
     function visitGithub(){
     
     if (confirm("Ir para Github?")) {
-        window.open("https://github.com/alexlpsdev",'blank').focus;
+        window.open("https://github.com/alexlucasxp",'blank').focus;
 
     } else {
         console.log("Redirecionamento cancelado.");
@@ -35,8 +35,8 @@ const btn1 = document.getElementsByClassName(".botao1")
 
 function redirect(){
 
-    if (confirm("Ir ao perfil do Instagram?")) {
-        window.open("https://instagram.com/alexlucasdev",'blank').focus
+    if (confirm("Ir ao perfil do LinkedIn?")) {
+        window.open("https://www.linkedin.com/in/alexlucasxp/",'blank').focus
 
     } else {
         console.log("Redirecionamento cancelado.")
