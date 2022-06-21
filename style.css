@@ -23,7 +23,7 @@ letter-spacing: 5px;
 
 body{
 
-    background-image:url(img/backgroundshape.svg); 
+    background-color: black; 
     background-repeat: no-repeat;
     background-size: cover;
 
